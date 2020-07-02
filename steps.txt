@@ -1,2 +1,0 @@
-1) Creating Environment python=3.7 , carprediction
-2) Launch Jupyter notebook
